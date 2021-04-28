@@ -1,1 +1,1 @@
-![46414_art_the_school_of_athens](https://user-images.githubusercontent.com/64951136/116337621-99498580-a804-11eb-9c74-89406c6f94b5.jpg)
+![gIlt2j1wMvW2wQvYSGF4oXTS5VzUI1UtUW49mQx8STc](https://user-images.githubusercontent.com/64951136/116338376-d7937480-a805-11eb-97d4-755a685ca4bd.png)
