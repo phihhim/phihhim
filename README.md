@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [EP 38: Where do we cache data?](https://app.daily.dev/posts/SmSKTIuI2?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [50 Linux Commands every developer NEED to know with example](https://app.daily.dev/posts/Z3bg_2u5x?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Why Websockets are Hard To Scale?](https://app.daily.dev/posts/Ed6ZEhYsg?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [GitOps Cookbook: Kubernetes automation in practice](https://app.daily.dev/posts/fEoqH_FjJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Database Normalization – Normal Forms 1nf 2nf 3nf Table Examples](https://app.daily.dev/posts/v2UToO2Lg?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Architecture and Code Design, Pt. 1](https://app.daily.dev/posts/oC9FOh1NQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Pump It Up! Actually Gaining Benefit From Cloud Native Microservices](https://app.daily.dev/posts/etNIQkW5y?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
