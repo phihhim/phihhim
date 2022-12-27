@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [Are These 7 Security Gaps in Your APIs?](https://app.daily.dev/posts/DPhXfevSI?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [Finally, a Free &lpar;and Open Source&rpar; Resume Builder Without Watermarks or Limitations](https://app.daily.dev/posts/YNYIXF6cr?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [Transactions in distributed systems](https://app.daily.dev/posts/Uh23djkAz?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [How to Cache Expensive Database Queries Using the Momento Serverless Cache](https://app.daily.dev/posts/FL5xoaLBa?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [EP 38: Where do we cache data?](https://app.daily.dev/posts/SmSKTIuI2?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [50 Linux Commands every developer NEED to know with example](https://app.daily.dev/posts/Z3bg_2u5x?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Why Websockets are Hard To Scale?](https://app.daily.dev/posts/Ed6ZEhYsg?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [GitOps Cookbook: Kubernetes automation in practice](https://app.daily.dev/posts/fEoqH_FjJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Database Normalization – Normal Forms 1nf 2nf 3nf Table Examples](https://app.daily.dev/posts/v2UToO2Lg?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
