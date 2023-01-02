@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [Measuring an engineering organization.](https://app.daily.dev/posts/sByn4aLIX?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Are These 7 Security Gaps in Your APIs?](https://app.daily.dev/posts/DPhXfevSI?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Finally, a Free &lpar;and Open Source&rpar; Resume Builder Without Watermarks or Limitations](https://app.daily.dev/posts/YNYIXF6cr?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Transactions in distributed systems](https://app.daily.dev/posts/Uh23djkAz?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [How to Cache Expensive Database Queries Using the Momento Serverless Cache](https://app.daily.dev/posts/FL5xoaLBa?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [EP 38: Where do we cache data?](https://app.daily.dev/posts/SmSKTIuI2?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
