@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [Understanding Git through images](https://app.daily.dev/posts/wqck-hRFh?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [MongoDB Replication and Sharding- A Complete Introduction -](https://app.daily.dev/posts/I96ZIpFlt?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Dockerizing your Django Web Application](https://app.daily.dev/posts/h5AVFJBnG?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Load Balancing Pattern](https://app.daily.dev/posts/CHop7M9Hw?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Measuring an engineering organization.](https://app.daily.dev/posts/sByn4aLIX?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Are These 7 Security Gaps in Your APIs?](https://app.daily.dev/posts/DPhXfevSI?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
