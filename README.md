@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [Django and Clean Architecture — The Real battle](https://app.daily.dev/posts/MeO6j-1df?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [Architecture diagrams should be code](https://app.daily.dev/posts/ukfupJf_h?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [EP 40: Git workflow](https://app.daily.dev/posts/74K4e-NTC?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Designing Event-Driven Architecture](https://app.daily.dev/posts/gbYFpJ1TJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Understanding Git through images](https://app.daily.dev/posts/wqck-hRFh?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [MongoDB Replication and Sharding- A Complete Introduction -](https://app.daily.dev/posts/I96ZIpFlt?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Dockerizing your Django Web Application](https://app.daily.dev/posts/h5AVFJBnG?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Load Balancing Pattern](https://app.daily.dev/posts/CHop7M9Hw?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
