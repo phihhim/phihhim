@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [Dynamic Programming: What, Why, and When?](https://app.daily.dev/posts/9JrtU87JB?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Documenting Python Code and Projects](https://app.daily.dev/posts/Tyk-YX6Y4?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Pikuma: Fundamental Math for Game Developers](https://app.daily.dev/posts/Q3-Y1ynFk?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Scalability is overrated](https://app.daily.dev/posts/I_vsiuVWs?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [5 Minute DevOps: Platform Engineering Dosen’t Replace DevOps](https://app.daily.dev/posts/g4hKMNJ28?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Clean code practice: Must for every coder and seniors](https://app.daily.dev/posts/6wYvij1MG?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
