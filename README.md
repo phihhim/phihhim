@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [How I Redesigned The Backend To Quickly Handle Millions Of Reads &lpar;And Writes&rpar;](https://app.daily.dev/posts/2wGgqfYGq?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [CI/CD pipeline for docker images.](https://app.daily.dev/posts/tWWkvYnyo?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Are these designs ready for development?](https://app.daily.dev/posts/NrCJSEifh?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [API Security for Developers](https://app.daily.dev/posts/iR1NyXF3q?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Dynamic Programming: What, Why, and When?](https://app.daily.dev/posts/9JrtU87JB?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Documenting Python Code and Projects](https://app.daily.dev/posts/Tyk-YX6Y4?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
