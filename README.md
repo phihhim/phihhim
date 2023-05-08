@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [Even Amazon can&#39;t make sense of serverless or microservices](https://app.daily.dev/posts/fEi479U6w?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [How Slack sends Millions of Messages in Real Time](https://app.daily.dev/posts/vaw3gZhu2?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Introduction to Software Architecture with Actors: Part 3 — On Simple Systems](https://app.daily.dev/posts/wGE5HLm9d?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Design Search Service at Scale](https://app.daily.dev/posts/lHqaEdg21?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [How I Redesigned The Backend To Quickly Handle Millions Of Reads &lpar;And Writes&rpar;](https://app.daily.dev/posts/2wGgqfYGq?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [CI/CD pipeline for docker images.](https://app.daily.dev/posts/tWWkvYnyo?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
