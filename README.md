@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [cybernetic.dev](https://app.daily.dev/posts/jXOkKLdRf?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Simplifying Your Tech Stack with PostgreSQL](https://app.daily.dev/posts/Pho2QKA3C?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Data Structures Cheat Sheet](https://app.daily.dev/posts/l3U6wBi5B?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [12+ Things I Regret Not Knowing Earlier About Python Lists](https://app.daily.dev/posts/X6fHZAndu?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [System Design Interview: Design WhatsApp](https://app.daily.dev/posts/zmrNpOcfY?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [How I Mastered Data Structures and Algorithms](https://app.daily.dev/posts/bAafP8CoU?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
