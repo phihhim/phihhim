@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
+- [8 Strategies for Reducing Latency](https://app.daily.dev/posts/zNfnMjoVT?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024](https://app.daily.dev/posts/NriCryRaS?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [Build Redis from scratch](https://app.daily.dev/posts/KLHtBDK9d?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [20 Patterns to Master Dynamic Programming](https://app.daily.dev/posts/pQGtZaLZo?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 - [cybernetic.dev](https://app.daily.dev/posts/jXOkKLdRf?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Simplifying Your Tech Stack with PostgreSQL](https://app.daily.dev/posts/Pho2QKA3C?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Data Structures Cheat Sheet](https://app.daily.dev/posts/l3U6wBi5B?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
