@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- daily.dev BOOKMARKS:START -->
-- [8 Strategies for Reducing Latency](https://app.daily.dev/posts/zNfnMjoVT?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024](https://app.daily.dev/posts/NriCryRaS?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [Build Redis from scratch](https://app.daily.dev/posts/KLHtBDK9d?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [20 Patterns to Master Dynamic Programming](https://app.daily.dev/posts/pQGtZaLZo?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
-- [cybernetic.dev](https://app.daily.dev/posts/jXOkKLdRf?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [8 Strategies for Reducing Latency](https://daily.dev/posts/zNfnMjoVT?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024](https://daily.dev/posts/NriCryRaS?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [Build Redis from scratch](https://daily.dev/posts/KLHtBDK9d?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [20 Patterns to Master Dynamic Programming](https://daily.dev/posts/pQGtZaLZo?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
+- [cybernetic.dev](https://daily.dev/posts/jXOkKLdRf?utm_source=rss&utm_medium=bookmarks&utm_campaign=wUZhvhvumOE4H7BNYF6qw)
 <!-- daily.dev BOOKMARKS:END -->
